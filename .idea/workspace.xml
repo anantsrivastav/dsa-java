@@ -4,90 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31f330bd-762f-4f50-ae59-6aac8f1456e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/acDSA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAYS/DiagonaMat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAYS/Kadanes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAYS/assignment1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAYS/binarysearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAYS/bubblesort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAYS/buildingques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAYS/largest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAYS/linearsearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAYS/pairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAYS/practice7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAYS/prefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAYS/prefixsum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAYS/repetition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAYS/rev.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAYS/reversearray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAYS/selectionsort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAYS/sortedMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAYS/spiralMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAYS/stocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAYS/subarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAYS/subarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAYS/subbarraysum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAYS/transpose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAYS/trappedrainwater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAYS/twoDarrayassign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAYS/twoDarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BackTracking/Bt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DivideAndConquer/dac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/lc54.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leetcode/lc74.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/Inheritence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/constr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/oops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/oops2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/oops4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPs/oops5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/binarystring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/duplicateremove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/quepractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/recursionbasics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/tiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Revision/kadanes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Revision/maxSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Revision/pairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Revision/pairss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Revision/prefixSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Revision/reversearray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Revision/stocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Revision/subarraysum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Revision/trappedRainwater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/bubble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/insertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/optbubble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/selection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/compare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/largest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/shortestPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/stringbuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/substring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/upper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/compares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/comparision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/shortestPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/stringbuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/substring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/project.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twoDarray/diagonalmatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twoDarray/firstprogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twoDarray/sortedmatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twoDarray/spiralmatrix.java" afterDir="false" />
-    </list>
+    <list default="true" id="31f330bd-762f-4f50-ae59-6aac8f1456e6" name="Changes" comment="ds implementation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/anantsrivastav/dsa-java.git",
+    "accountId": "00520af5-c905-4d5b-969a-ea7fe0a96f6e"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -273,6 +196,23 @@
       <option name="presentableId" value="Default" />
       <updated>1743920123867</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1752220862695</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752220862695</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ds implementation">
+      <option name="closed" value="true" />
+      <created>1752221065459</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752221065459</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,6 +225,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="ds implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="ds implementation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
