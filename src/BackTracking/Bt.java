@@ -12,6 +12,7 @@ public class Bt {
         arr[i] = arr[i]-2;
 
 
+
     }
     public static void PrintArr(int[] arr){
         for (int i=0; i<arr.length; i++){

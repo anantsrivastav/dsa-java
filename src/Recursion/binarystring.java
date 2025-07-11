@@ -5,5 +5,6 @@
 //        if(lastPlace==0){
 //            BinaryString(n-1, 0, Str.append());
 //        }
+//sfbkj
 //    }
 //}
